@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print("J'apprends Python!")
+print("(100 + 81) * 11")
